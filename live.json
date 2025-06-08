@@ -1,0 +1,16 @@
+{
+  "liveData": [
+    {
+      "name": "Space Mountain",
+      "queue": { "STANDBY": { "waitTime": 45 } }
+    },
+    {
+      "name": "Big Thunder Mountain Railroad",
+      "queue": { "STANDBY": { "waitTime": 30 } }
+    },
+    {
+      "name": "Haunted Mansion",
+      "queue": { "STANDBY": { "waitTime": 25 } }
+    }
+  ]
+}
